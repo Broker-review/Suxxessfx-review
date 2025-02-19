@@ -145,6 +145,7 @@ Pros & Cons of Suxxess FX
 -  Competitive spreads and leverage options
 -  Wide range of trading assets for portfolio diversification
 -  User-friendly trading platform with automated trading support
+
 ❌ Cons:
 - Higher minimum deposits for premium accounts
 - Limited leverage compared to offshore brokers
